@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Feng:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Feng_jar</output-path>
+    <root id="archive" name="Feng.jar">
+      <element id="module-output" name="Feng" />
+    </root>
+  </artifact>
+</component>
